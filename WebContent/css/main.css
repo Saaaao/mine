@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+
+#backimg {
+	width: 1000px;
+	background-color: #ffffff;
+	margin: auto;
+	opacity: 0.8;
+}
+
+body {
+	background-color: #fdeff2;
+}
